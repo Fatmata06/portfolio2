@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio2.git/static/css/main.f225c5c3.css",
+    "main.js": "/portfolio2.git/static/js/main.de757be7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio2.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image.png": "/portfolio2.git/static/media/image.6bd326f5a697f99040f4.png",
+    "static/media/a1.png": "/portfolio2.git/static/media/a1.e58f613139c5619ddd48.png",
+    "static/media/Card 1.png": "/portfolio2.git/static/media/Card 1.395763da0941f95d8fc8.png",
+    "static/media/Card 2.png": "/portfolio2.git/static/media/Card 2.2e73b8ce0e16ba46718f.png",
+    "static/media/Card 3.png": "/portfolio2.git/static/media/Card 3.56de04239d3cb0dba8d9.png",
+    "static/media/Card 4.png": "/portfolio2.git/static/media/Card 4.54fb94fa5f34b6d88449.png",
+    "index.html": "/portfolio2.git/index.html",
+    "main.f225c5c3.css.map": "/portfolio2.git/static/css/main.f225c5c3.css.map",
+    "main.de757be7.js.map": "/portfolio2.git/static/js/main.de757be7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio2.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f225c5c3.css",
+    "static/js/main.de757be7.js"
+  ]
+}
